@@ -11,6 +11,7 @@ namespace OnlineStore.Web.Controllers
         // GET: Home
         public ActionResult Index()
         {
+
             return View();
         }
     }
